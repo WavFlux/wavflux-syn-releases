@@ -1,2 +1,4 @@
-# wavflux-syn-releases
-Installers for WavFlux Syn's in-app updates
+# WavFlux Syn releases
+
+Installers for WavFlux Syn. The app checks here for updates (Help → Check for Updates…).
+This repository holds releases only; there's no source code here.
